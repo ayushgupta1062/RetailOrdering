@@ -1,4 +1,4 @@
-package src.main.java.com.retail.ordering.service;
+package com.retail.ordering.service;
 
 import com.retail.ordering.config.JwtUtil;
 import com.retail.ordering.dto.LoginRequest;
@@ -10,7 +10,6 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 import java.util.HashMap;
 import java.util.Map;
-
 
 @Service
 public class AuthService {
@@ -24,9 +23,7 @@ public class AuthService {
     @Autowired
     private JwtUtil jwtUtil;
 
-
     public User register(RegisterRequest request) {
-
         if (userRepository.existsByEmail(request.getEmail())) {
             throw new IllegalArgumentException("Email already registered: " + request.getEmail());
         }
