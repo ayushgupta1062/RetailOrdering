@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="44657780-e88e-4b3e-b9e8-9734b39f10b5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/retail-ordering-frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/retail-ordering-frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retail-ordering-frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/retail-ordering-frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retail-ordering-frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/retail-ordering-frontend/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retail-ordering-frontend/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/retail-ordering-frontend/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retail-ordering-frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/retail-ordering-frontend/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retail-ordering-frontend/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/retail-ordering-frontend/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retail-ordering-frontend/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/retail-ordering-frontend/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/Ayush/Downloads/Java Full Stack/Project/Retail Ordering Application" value="3CWdbZFljel4Oq7ica2oiH1NL71" />
+    </persistenceIdMap>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/retail-ordering-frontend" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="3CWdbZFljel4Oq7ica2oiH1NL71" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Ayush/Downloads/Java Full Stack/Project/Retail Ordering Application"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Retail Ordering Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Retail Ordering Application" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44657780-e88e-4b3e-b9e8-9734b39f10b5" name="Changes" comment="" />
+      <created>1776505331817</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1776505331817</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
